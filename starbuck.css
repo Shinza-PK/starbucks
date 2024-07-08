@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content1{
+   
+    background-image:linear-gradient(rgba(43, 42, 42, 0.85),rgba(70, 68, 68, 0.85))  ,url(./coffee.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+   text-align: center;
+   margin-left: -80px;
+   
+}
+.header{
+    background-color: brown;
+    height: 50px;
+    padding-left: 50px;
+    text-align: center;
+    padding-top: 7px;
+}
+.menu{
+    padding-left: 50px;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+ 
+}
+.reward{
+    padding-left: 30px;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.location{
+    margin-left:40vh;
+}
+.find{
+    padding-left: 30px;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.butt1{
+margin-left: 30px;
+padding: 5px 30px;
+border-radius: 25px;
+border: transparent;
+background-color:green;
+color: aliceblue;
+}
+.butt2{
+    margin-left: 30px;
+    padding: 5px 30px;
+    border-radius: 25px;
+    border: transparent;
+    background-color:green;
+    color:whitesmoke;
+}
+.gift{
+    /* text-align: center; */
+    color:rgb(241, 210, 241);
+    font-family: sans-serif;
+    padding-top: 200px;
+    font-size: x-large;
+    margin-left: 60px;
+    
+}
+.para1{
+    color: aliceblue;
+    /* text-align: center; */
+    padding-left: 80px;
+    margin-top: 30px;
+}
+.butt3{
+    margin-left: 80px;
+    margin-top: 20px;
+    padding: 10px 30px;
+    border-radius: 25px;
+    background-color: orange;
+    border: transparent;
+}
+.content2{
+    
+    color: aliceblue;
+    height: 42vh;
+    text-align: center;
+    padding-top: 40px;
+    
+    padding-left: 50vh;
+  
+   
+}
+.flex5{
+    position: absolute;
+    top: 88.2vh;
+    /* margin-left: 30px; */
+    background-color: brown;
+    width: 100%;
+    display: flex;
+
+}
+.butt4{
+    margin-top: 30px;
+    padding: 10px 20px;
+    border-radius: 25px;
+    background-color: aliceblue;
+    border-color: transparent;
+}
+.content4{
+    text-align: center;
+    background-color: green;
+    margin-top:42vh;
+    width: 88vh;
+    height: 43vh;
+    padding-right: 40px;
+    padding-left: 1px;
+    position: relative;
+
+}
+.diamond{
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 6px;
+}
+.flex{
+    background-color: gray;
+    margin-left: 88vh;  
+    padding-top: 1px;
+    margin-top: -196px;
+}
+.one{
+    display: flex;
+}
+.two{
+    display: flex;
+}
+
+.at{
+    padding-top: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    font-size: x-large;
+    color: bisque;
+}
+.footer{
+    display: flex;
+    background-color: black;
+      text-decoration: none;
+      height: 40vh;
+      width: 221vh;
+}
+.footer a{
+    color: aliceblue;
+    font-size: large;
+    text-decoration: none;
+}
